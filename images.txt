@@ -3,6 +3,5 @@ apache/doris:build-env-ldb-toolchain-latest
 #doris-operator
 selectdb/doris.k8s-operator:latest
 selectdb/doris.be-ubuntu:2.1.3
-selectdb/doris.be-ubuntu:2.1.4
 selectdb/doris.fe-ubuntu:2.1.3
-selectdb/doris.fe-ubuntu:2.1.4
+selectdb/alpine:latest
