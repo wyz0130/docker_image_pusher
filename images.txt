@@ -6,4 +6,3 @@ selectdb/alpine:latest
 #doris
 selectdb/doris.fe-ubuntu:2.1.4-rc03
 selectdb/doris.be-ubuntu:2.1.4-rc03
-
