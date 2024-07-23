@@ -1,8 +1,3 @@
-mysql:5.7
-apache/doris:build-env-ldb-toolchain-latest
-#doris-operator
-selectdb/doris.k8s-operator:latest
 selectdb/alpine:latest
-#doris
 selectdb/doris.fe-ubuntu:2.1.4-rc03
 selectdb/doris.be-ubuntu:2.1.4-rc03
