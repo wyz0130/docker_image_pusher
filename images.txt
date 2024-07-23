@@ -1,4 +1,5 @@
 nginx
+mysql:5.7
 #支持私库
 apache/doris:build-env-ldb-toolchain-latest
 #支持指定架构
