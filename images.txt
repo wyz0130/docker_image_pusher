@@ -1,3 +1,4 @@
 selectdb/alpine:latest
+selectdb/doris.k8s-operator:latest
 selectdb/doris.fe-ubuntu:2.1.4-rc03
 selectdb/doris.be-ubuntu:2.1.4-rc03
