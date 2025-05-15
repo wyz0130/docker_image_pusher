@@ -6,4 +6,4 @@ redis:6.2-alpine3.20
 mysql:5.7
 nginx:stable-alpine3.17
 rabbitmq:4.0-management
-nvidia/dcgm-exporter:4.1.1-4.0.4-ubuntu22.04
+dcgm-exporter:4.1.1-4.0.4-ubuntu22.04
