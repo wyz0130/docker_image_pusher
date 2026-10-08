@@ -1,6 +1,6 @@
 selectdb/alpine:latest
 selectdb/doris.k8s-operator:latest
 redis:6.2-alpine3.20
-mysql:5.7
+mysql:8.0.44
 nginx:stable-alpine3.17
 rabbitmq:4.0-management
